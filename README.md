@@ -1,4 +1,4 @@
-#Theory4All
+Theory4All
 
 Trabalho para a disciplina de Algoritmos e estrutura de dados III - AED III
 	Basicamente se trata de uma forma de aprendizado para pessoas que tem interesse ou querem aprimorar o conhecimento em teoria musical.
