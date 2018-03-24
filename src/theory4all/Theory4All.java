@@ -7,7 +7,7 @@ package theory4all;
 
 /**
  *
- * @author vinicius
+ * @author Vinicius Francisco da Silva
  */
 public class Theory4All{
 
